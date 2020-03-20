@@ -11,3 +11,5 @@ https://github.com/webrtc/samples/blob/gh-pages/src/content/getusermedia/filter/
 https://socket.io/docs/emit-cheatsheet/
 
 https://medium.com/javascript-in-plain-english/async-await-javascript-5038668ec6eb
+
+https://www.youtube.com/watch?v=pIHYtUJ7hkY
